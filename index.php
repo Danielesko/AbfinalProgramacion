@@ -40,7 +40,6 @@
       </div>
     </nav>
   </header>
-  <p>me chupa la pija</p>
   <?php
   include("funciones/funciones.php");
   mostrarTienda();
