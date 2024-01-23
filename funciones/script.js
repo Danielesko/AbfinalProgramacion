@@ -29,7 +29,7 @@ function verificarInicio() {
 	}
 	if (errores.length == 0) {
 		let peticion = $.ajax({
-			url: "funciones.php",
+			url: "../funciones/funciones.php",
 			type: "POST",
 			data: {
 				correoIni: correoIni,
